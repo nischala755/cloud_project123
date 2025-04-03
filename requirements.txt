@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
+torch
+cryptography
+hashlib
+re

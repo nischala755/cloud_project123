@@ -1,0 +1,1 @@
+{"id": "5b5d653e-e6fb-413b-94fc-12cabbf50dd7", "name": "resume.html.pdf", "owner": "nischi", "size": 58984, "created_at": "2025-04-02T22:52:22.254597", "updated_at": "2025-04-02T22:52:22.254610", "encryption": {"method": "AES-256", "reason": "Small file size, symmetric encryption is efficient"}, "permissions": {"nischi": ["read", "write"]}}
