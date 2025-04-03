@@ -26,15 +26,7 @@ import uuid
 import pickle
 from collections import defaultdict
 
-# Download NLTK resources
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt', quiet=True)
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords', quiet=True)
+#\t=True)
 
 # Set page configuration
 st.set_page_config(
