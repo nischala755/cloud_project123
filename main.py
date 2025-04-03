@@ -20,9 +20,7 @@ import torch.nn as nn
 from datetime import datetime
 from PIL import Image
 import io
-import nltk
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
+
 import re
 import uuid
 import pickle
